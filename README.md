@@ -14,4 +14,6 @@ Bootstrap, Wordpress grouped by providers
 * Shards - Free Bootstrap 4 UI Kit
     * DEMO: https://themewagon.com/themes/download-free-bootstrap-4-ui-kit/
 
-
+* SB Admin 2 - HTML5 Admin Dashboard
+    * DEMO: https://technext.github.io/startbootstrap-sb-admin-2/pages/index.html
+    
