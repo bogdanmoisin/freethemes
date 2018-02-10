@@ -26,13 +26,20 @@ Bootstrap, Wordpress grouped by providers
 * Bondy - Responsive Landing Theme
     * DEMO: http://www.scoopthemes.com/templates/bondy/
 
-
 ## GrayGrids | https://graygrids.com
 
 * LeadGenerator - Multipurpose Responsive Landing Theme
     * DEMO: https://graygrids.com/item/leadgenerator-free-multipurpose-landing-page-template/
 
+## BootstrapMade | https://bootstrapmade.com
+
+* Regna - Corporate, business or agency Bootstrap template
+    * DEMO: https://bootstrapmade.com/demo/Regna/
+
+* Bell - Multipurpose Bootstrap 4 Template
+    * DEMO: https://bootstrapmade.com/demo/Bell/
     
+        
 
 
 
