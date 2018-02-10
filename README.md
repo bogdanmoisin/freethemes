@@ -9,11 +9,10 @@ Bootstrap, Wordpress grouped by providers
 * Material dashboard - Free Bootstrap Material Admin
     * DEMO: http://demos.creative-tim.com/material-dashboard/examples/dashboard.html
 
-## Themewagon.com | https://themewagon.com/theme_tag/free/
+## ThemeWagon.com | https://themewagon.com/theme_tag/free/
 
 * Shards - Free Bootstrap 4 UI Kit
     * DEMO: https://themewagon.com/themes/download-free-bootstrap-4-ui-kit/
 
 * SB Admin 2 - HTML5 Admin Dashboard
     * DEMO: https://technext.github.io/startbootstrap-sb-admin-2/pages/index.html
-    
