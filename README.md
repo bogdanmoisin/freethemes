@@ -16,3 +16,13 @@ Bootstrap, Wordpress grouped by providers
 
 * SB Admin 2 - HTML5 Admin Dashboard
     * DEMO: https://technext.github.io/startbootstrap-sb-admin-2/pages/index.html
+
+## ScoopThemes.com | http://www.scoopthemes.com/
+
+* Oleose - Responsive Landing Theme
+    * DEMO Freeze: http://www.scoopthemes.com/templates/Oleose/Freeze/
+    * DEMO Eco   : http://www.scoopthemes.com/templates/Oleose/Eco/
+
+* Bondy - Responsive Landing Theme
+    * DEMO Freeze: http://www.scoopthemes.com/templates/bondy/
+    
