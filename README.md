@@ -12,7 +12,7 @@ Bootstrap, Wordpress grouped by providers
 ## ThemeWagon | https://themewagon.com/theme_tag/free/
 
 * Shards - Free Bootstrap 4 UI Kit
-    * DEMO: https://themewagon.com/themes/download-free-bootstrap-4-ui-kit/
+    * DEMO: http://demo.themewagon.com/preview/download-free-bootstrap-4-ui-kit
 
 * SB Admin 2 - HTML5 Admin Dashboard
     * DEMO: https://technext.github.io/startbootstrap-sb-admin-2/pages/index.html
@@ -29,7 +29,7 @@ Bootstrap, Wordpress grouped by providers
 ## GrayGrids | https://graygrids.com
 
 * LeadGenerator - Multipurpose Responsive Landing Theme
-    * DEMO: https://graygrids.com/item/leadgenerator-free-multipurpose-landing-page-template/
+    * DEMO: http://vtdes.ru/demo/leadgen/
 
 ## BootstrapMade | https://bootstrapmade.com
 
@@ -38,7 +38,7 @@ Bootstrap, Wordpress grouped by providers
 
 * Bell - Multipurpose Bootstrap 4 Template
     * DEMO: https://bootstrapmade.com/demo/Bell/
-    
+
         
 
 
