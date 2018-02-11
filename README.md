@@ -9,6 +9,14 @@ Bootstrap, Wordpress grouped by providers
 * Material dashboard - Free Bootstrap Material Admin
     * DEMO: http://demos.creative-tim.com/material-dashboard/examples/dashboard.html
 
+## BestOfThemes | https://www.bestofthemes.com
+
+* Luxe - Bootstrap Template for hotel website
+    * DEMO: https://freehtml5.co/preview/?item=nitro-free-website-template-using-bootstrap-3
+
+* Nitro - Bootstrap BusinessPersonal & Portfolio
+    * DEMO: https://freehtml5.co/preview/?item=luxe-free-html5-bootstrap-template-for-hotel-website
+    
 ## ThemeWagon | https://themewagon.com/theme_tag/free/
 
 * Shards - Free Bootstrap 4 UI Kit
