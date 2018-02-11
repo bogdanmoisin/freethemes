@@ -1,4 +1,4 @@
-# Tested Free themes - provided by https://www.123SiteBuilder.net 
+# Tested Free themes - https://www.123SiteBuilder.net 
 Bootstrap, Wordpress grouped by providers
 
 ## Creative-Tim | https://www.creative-tim.com/bootstrap-themes/free
