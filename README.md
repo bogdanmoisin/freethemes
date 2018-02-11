@@ -1,4 +1,4 @@
-# Premium Free themes - https://www.123SiteBuilder.net 
+# Premium Free Themes - https://www.123SiteBuilder.net 
 Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are tested**.  
 
 ## 
