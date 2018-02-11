@@ -1,7 +1,7 @@
 # Beautiful Free themes - https://www.123SiteBuilder.net 
-Bootstrap, Wordpress free themes ONLY, grouped by providers. *All themes are tested before commit*.  
+Bootstrap, Wordpress free themes ONLY, grouped by providers. **All themes are tested before commit**.  
 
-
+## 
 ## Creative-Tim | https://www.creative-tim.com/bootstrap-themes/free
 
 * Now UI Kit - Free Bootstrap 4 Kit
