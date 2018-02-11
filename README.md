@@ -1,5 +1,5 @@
-# Beautiful Free themes - https://www.123SiteBuilder.net 
-Bootstrap, Wordpress free themes ONLY, grouped by providers. **All themes are tested**.  
+# Premium Free themes - https://www.123SiteBuilder.net 
+Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are tested**.  
 
 ## 
 ## Creative-Tim | https://www.creative-tim.com/bootstrap-themes/free
