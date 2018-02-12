@@ -11,8 +11,8 @@ Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are 
 
 #### [BestOfThemes](https://www.bestofthemes.com) | Company featured on [ProductHunt](https://www.producthunt.com/)  
 
-* [DEMO](https://freehtml5.co/preview/?item=nitro-free-website-template-using-bootstrap-3) Luxe - Bootstrap Template for hotel website
-* [DEMO](https://freehtml5.co/preview/?item=luxe-free-html5-bootstrap-template-for-hotel-website) Nitro - Bootstrap BusinessPersonal & Portfolio
+* [DEMO](https://freehtml5.co/demos/nitro/) Luxe - Bootstrap Template for hotel website
+* [DEMO](https://freehtml5.co/demos/luxe/) Nitro - Bootstrap BusinessPersonal & Portfolio
     
 #### [ThemeWagon](https://themewagon.com/theme_tag/free/) 
 
