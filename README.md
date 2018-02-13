@@ -16,7 +16,7 @@ Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are 
     
 #### [ThemeWagon](https://themewagon.com/theme_tag/free/) 
 
-* [demo](https://technext.github.io/startbootstrap-sb-admin-2/pages/index.html) SB Admin 2 - HTML5 Admin Dashboard
+* [demo](http://www.123SiteBuilder.net/iframe?url=https://technext.github.io/startbootstrap-sb-admin-2/pages/&provider=themewagon.com&theme=startbootstrap-sb-admin) SB Admin 2 - HTML5 Admin Dashboard
 
 #### [ScoopThemes](http://www.scoopthemes.com/) 
 
