@@ -9,9 +9,14 @@ Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are 
 * [demo](http://www.123SiteBuilder.net/iframe?url=http://demos.creative-tim.com/now-ui-kit/index.html&provider=creative-tim.com&theme=now-ui-kit) Now UI Kit - Free Bootstrap 4 Kit
 * [demo](http://www.123SiteBuilder.net/iframe?url=http://demos.creative-tim.com/material-dashboard/examples/dashboard.html&provider=creative-tim.com&theme=material-dashboard) Material dashboard - Free Bootstrap Material Admin
 
+#### [FreeHtml5](https://freehtml5.co)  
+
+* [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/cube/&provider=freehtml5.co&theme=cube) Cube - Bootstrap Business Website 
+* [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/24-news/&provider=freehtml5.co&theme=24-news) 24-News - Blog Template
+
 #### [BestOfThemes](https://www.bestofthemes.com) | Company featured on [ProductHunt](https://www.producthunt.com/)  
 
-* [demo](https://freehtml5.co/demos/nitro/) Nitro - Bootstrap BusinessPersonal & Portfolio 
+* [demo](https://freehtml5.co/demos/nitro/) Nitro - Bootstrap Business, Personal & Portfolio 
 * [demo](http://www.123SiteBuilder.net/iframe?url=https://freehtml5.co/demos/luxe/&provider=bestofthemes.com&theme=luxe) Luxe - Bootstrap Template for hotel website
     
 #### [ThemeWagon](https://themewagon.com/theme_tag/free/) 
