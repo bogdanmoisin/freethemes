@@ -16,7 +16,6 @@ Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are 
     
 #### [ThemeWagon](https://themewagon.com/theme_tag/free/) 
 
-* [demo](http://demo.themewagon.com/preview/download-free-bootstrap-4-ui-kit) Shards - Free Bootstrap 4 UI Kit
 * [demo](https://technext.github.io/startbootstrap-sb-admin-2/pages/index.html) SB Admin 2 - HTML5 Admin Dashboard
 
 #### [ScoopThemes](http://www.scoopthemes.com/) 
