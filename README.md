@@ -16,27 +16,26 @@ Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are 
 
 #### [BestOfThemes](https://www.bestofthemes.com) | Company featured on [ProductHunt](https://www.producthunt.com/)  
 
-* [demo](https://freehtml5.co/demos/nitro/) Nitro - Bootstrap Business, Personal & Portfolio 
+* [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/nitro/&provider=bestofthemes.com&theme=nitro) Nitro - Bootstrap Business, Personal & Portfolio 
 * [demo](http://www.123SiteBuilder.net/iframe?url=https://freehtml5.co/demos/luxe/&provider=bestofthemes.com&theme=luxe) Luxe - Bootstrap Template for hotel website
     
 #### [ThemeWagon](https://themewagon.com/theme_tag/free/) 
 
 * [demo](http://www.123SiteBuilder.net/iframe?url=https://technext.github.io/startbootstrap-sb-admin-2/pages/&provider=themewagon.com&theme=startbootstrap-sb-admin) SB Admin 2 - HTML5 Admin Dashboard
 
-#### [ScoopThemes](http://www.scoopthemes.com/) 
-
-* [demo](http://www.scoopthemes.com/templates/Oleose/Freeze/) Oleose - Responsive Landing Theme
-* [demo](http://www.scoopthemes.com/templates/bondy/) Bondy - Responsive Landing Theme
-
 #### [GrayGrids](https://graygrids.com)
 
-* [demo](http://www.123SiteBuilder.net//iframe?url=http://vtdes.ru/demo/leadgen/&provider=graygrids.com&theme=leadgen) LeadGenerator - Multipurpose Responsive Landing Theme
+* [demo](http://www.123SiteBuilder.net/iframe?url=http://vtdes.ru/demo/leadgen/&provider=graygrids.com&theme=leadgen) LeadGenerator - Multipurpose Responsive Landing Theme
 
 #### [BootstrapMade](https://bootstrapmade.com)
 
-* [demo](https://bootstrapmade.com/demo/Regna/) Regna - Corporate, business or agency Bootstrap template
-* [demo](https://bootstrapmade.com/demo/Bell/) Bell - Multipurpose Bootstrap 4 Template
+* [demo](http://www.123SiteBuilder.net/iframe?url=https://bootstrapmade.com/demo/themes/Bell/&provider=bootstrapmade.com&theme=bell) Bell - Multipurpose Bootstrap 4 Template
+* [demo](http://www.123SiteBuilder.net/iframe?url=https://bootstrapmade.com/demo/themes/Regna/&provider=bootstrapmade.com&theme=regna) Regna - Corporate, business or agency Bootstrap template
 
+#### [ScoopThemes](http://www.scoopthemes.com/) 
+
+* [demo](http://www.123SiteBuilder.net/iframe?url=http://www.scoopthemes.com/templates/Oleose/Freeze/&provider=scoopthemes.com&theme=freeze) Oleose - Responsive Landing Theme
+* [demo](http://www.123SiteBuilder.net/iframe?url=http://www.scoopthemes.com/templates/bondy/&provider=scoopthemes.com&theme=bondy) Bondy - Responsive Landing Theme
 
 
 
