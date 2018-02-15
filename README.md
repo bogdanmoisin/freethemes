@@ -15,6 +15,8 @@ Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are 
 
 #### [FreeHtml5](https://freehtml5.co)  
 
+* [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/cube/&provider=freehtml5.co&theme=icon) Icon - One page Website 
+* [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/24-news/&provider=freehtml5.co&theme=education) Education - Blog Template
 * [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/cube/&provider=freehtml5.co&theme=cube) Cube - Bootstrap Business Website 
 * [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/24-news/&provider=freehtml5.co&theme=24-news) 24-News - Blog Template
 
