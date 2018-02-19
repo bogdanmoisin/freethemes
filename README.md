@@ -11,6 +11,7 @@ Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are 
 
 #### [ColorLib](https://colorlib.com)  
 
+* [demo](http://www.123sitebuilder.net/iframe?url=https://colorlib.com/illdy/&provider=colorlib.com&theme=illdy) Illdy - Blog Theme 
 * [demo](http://www.123sitebuilder.net/iframe?url=https://colorlib.com/shapely/&provider=colorlib.com&theme=wp-shapely) Shapely - Beautiful WP Theme 
 
 #### [ThemeHunk](https://themehunk.com/)  
@@ -19,6 +20,8 @@ Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are 
 
 #### [FreeHtml5](https://freehtml5.co)  
 
+* [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/singular/&provider=freehtml5.co&theme=singular) Singular - Portfolio Website 
+* [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/shift/&provider=freehtml5.co&theme=shift) Shift - Portfolio Website 
 * [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/icon/&provider=freehtml5.co&theme=icon) Icon - One page Website 
 * [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/education/&provider=freehtml5.co&theme=education) Education - Blog Template
 * [demo](http://www.123sitebuilder.net/iframe?url=https://freehtml5.co/demos/cube/&provider=freehtml5.co&theme=cube) Cube - Bootstrap Business Website 
