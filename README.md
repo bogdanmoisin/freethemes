@@ -9,6 +9,10 @@ Bootstrap, Wordpress - Free themes ONLY, grouped by providers. **All themes are 
 * [demo](http://www.123SiteBuilder.net/iframe?url=http://demos.creative-tim.com/now-ui-kit/index.html&provider=creative-tim.com&theme=now-ui-kit) Now UI Kit - Free Bootstrap 4 Kit
 * [demo](http://www.123SiteBuilder.net/iframe?url=http://demos.creative-tim.com/material-dashboard/examples/dashboard.html&provider=creative-tim.com&theme=material-dashboard) Material dashboard - Free Bootstrap Material Admin
 
+#### [ColorLib](https://colorlib.com)  
+
+* [demo](http://www.123sitebuilder.net/iframe?url=https://colorlib.com/shapely/&provider=colorlib.com&theme=wp-shapely) Shapely - Beautiful WP Theme 
+
 #### [ThemeHunk](https://themehunk.com/)  
 
 * [demo](http://www.123sitebuilder.net/iframe?url=https://themehunk.com/wp-themes/featuredlite/&provider=themehunk.com&theme=featuredlite) Featured Lite - Beautiful WordPress Business Theme 
